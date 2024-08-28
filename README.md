@@ -10,7 +10,7 @@
 <div align="center">
     <h1 align="center"> ⚛️ Github Stats</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Keshav-gola&theme=dark">
+<img src="https://github-profile-trophy.vercel.app/?username=Keshav-gola&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 
   |<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Keshav-gola&theme=dark&show_icons=true&count_private=true" alt=Keshav-gola>|<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-gola&theme=dark&show_icons=true&layout=compact">|
   |---|---|
