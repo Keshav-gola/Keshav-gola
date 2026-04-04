@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keshav-gola
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning DSA with Java
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning python(FASTApi)
 - 💞️ I’m looking to collaborate on Small scale projects
 - 📫 You can reach me [Here](mailto:keshavgola285@gmail.com)
 - ⚡ Fun fact: There's NOTHING!
